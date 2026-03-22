@@ -1,4 +1,4 @@
-This is something temporary and i will change the name of the folder with my name to Git tutorial or something and will shift this README.md to it if possible as soon this task ends coz i want everything to be clean and organised and i am planning to write blogs here anyways, so yeah if you are reading this thanks for the special effort to look back into the history of my commits, this gives me motivation to put easter eggs in the code and pay more attention in the task(not for name sake and definitely not AI slop) and thankyou🤍.
+This isn’t a complete guide to Git and Markdown, but it’ll give you a basic idea and get you doing the bare minimum on GitHub. I might update this later if I’m bored and decide to make it better.
 
 # GIT tutorial for baby programmers
 ## What is Git?
@@ -30,6 +30,7 @@ Say you somehow managed to write a code locally on your laptop/pc and you want i
 
 `step-8` Set your branch to main (coz you are a newbie and you don't want to complicate your life)  
   `git branch -M main`  
+
 `step-9` Finallyy! push your code to GitHub (do check whether you are connected to internet because you need it for this step)  
   `git push -u origin main`
 
