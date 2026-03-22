@@ -1,1 +1,3 @@
-#Ahh I just created this file idk what to add but I'll comeback after doing README.md promise!
+print("I'll guess your name!")
+x = input("Please enter your name")
+print("You are definitely not donald trump!")
