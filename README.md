@@ -4,12 +4,12 @@ This isn’t a complete guide to Git and Markdown, but it’ll give you a basic 
 ## What is Git?
 Git is a version control system (VCS) used by programmers to track changes in their source code and blame people for their their mistakes(you know what I am referring to hehe).
 
-Unlike older systems that rely on a central server, every developer has a complete copy of the project history on their local machine (That's how open source development and remote jobs work, good luck finding one)
+Unlike older systems that rely on a central server, every developer has a complete copy of the project history on their local machine (That's how open source development and remote jobs work)
 
 ## How to push code to GitHub?  
 Say you somehow managed to write a code locally on your laptop/pc and you want it on Your GitHub profile, follow the following steps
 
-`step-1:` Find a button which says `Create a new repository` and create one (I'm assuming you are capable of figuring this out so I don't need to embed mulitple ss of creating a repo) (if you still face an issue call your parents for help)
+`step-1:` Find a button which says `Create a new repository` and create one (I'm assuming you are capable of figuring this out so I don't need to embed mulitple ss of creating a repo)
 
 `step-2:` Go to Terminal of your IDE/text-editor
 
@@ -46,7 +46,7 @@ Strictly speaking with respect to GitHub some of the markdown features don't wor
 Headings in Markdown come in six sizes, where the one with one `#` is the biggest and the one with `######` is the smallest  
 The format of a heading: `## This is a heading` (don't forget the space between the hashtags and the text)  
 ### Code blocks
-If you code blocks in your markdown just like how I included them in mine use ` `` ` (the key above Tab key) and write your code in it  
+If you want code blocks in your markdown just like how I included them in mine use ` `` ` (the key above Tab key) and write your code in it  
 and if you want to include muliple lines of code use ` ```  <code>  ``` ` across multiple lines of code
 ### Lists
 In lists we have two types:
